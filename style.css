@@ -1,0 +1,137 @@
+.container{
+    width:1200px;
+    margin:auto;
+}
+.box h1{
+    background-color: rgb(179, 114, 211) ;
+    color:rgb(94, 10, 173);
+    margin: auto;
+    padding:0px 20px 20px 30px;
+
+}
+P{
+    background-color:  rgb(179, 114, 211) ;
+    color:rgb(12, 5, 19);
+    
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+.box{
+    width:40%;
+    height:60%;
+    background-color: rgb(179, 114, 211);
+    border-radius: 4px 4px 4px 4px;
+    padding-top: 20px;
+    margin:auto;
+
+}
+.box img{
+    width:30%;
+    
+
+}
+a{
+    background-color: blueviolet;
+    padding: 6px 4px 6px 4px;
+    margin:auto;
+    border-radius: 4px;
+}
+
+
+
+
+
+.container2{
+    width:1200px;
+    margin:auto;
+}
+.box1 h1{
+    background-color: rgb(179, 114, 211) ;
+    color:rgb(94, 10, 173);
+    margin: auto;
+    padding:0px 20px 20px 30px;
+
+}
+.box1 P{
+    background-color:  rgb(179, 114, 211) ;
+    color:rgb(12, 5, 19);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.row2{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+.box1{
+    width:30%;
+    height:60%;
+    background-color: rgb(179, 114, 211);
+    border-radius: 4px 4px 4px 4px;
+    padding-top: 20px;
+    margin:auto;
+    
+}
+.container3{
+    width:1200px;
+    margin: auto;    
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box2{
+    width:70%;
+    height:60%;
+     background-color: rgb(179, 114, 211);
+    border-radius: 4px 4px 4px 4px;
+    padding-top: 20px;
+    margin:auto;
+    
+}
+.box2 h1{
+    margin-left: 10px;
+    margin-top: 10px;
+    width:5%;
+    padding:0px 20px 20px 30px;
+}
+.box2 p{
+    width:50%;
+}
+.box2 img{
+    width:30%;
+    justify-content: right;
+}
+---------------------------
+.container4{
+    width:1200px;
+    margin: auto;
+}
+.row4{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box3{
+    width:30%;
+    height:60%;
+     background-color: rgb(179, 114, 211);
+    border-radius: 4px 4px 4px 4px;
+    padding-top: 20px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+
+}
+.box3 h1{
+     margin-left: 10px;
+    margin-top: 10px;
+    width:5%;
+    padding:0px 20px 20px 30px;
+}
+
+.box3 img{
+    width:20%;
+    border-radius: 10px;
+}
